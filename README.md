@@ -16,7 +16,7 @@ From the JSON file, replace the contents of `"defaults"`
 
 with the contents of `windows-terminal-theme.json`.
 
-5. Under `"schemes":`
+Under `"schemes":`
 ```
 "schemes": 
     [
