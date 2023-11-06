@@ -1,5 +1,5 @@
-# Antartic Windows Terminal
-Antartic for the Windows Terminal.
+# Antarctic Windows Terminal
+Antarctic for the Windows Terminal.
 
 ## Installation 
 1. Open Windows Terminal
@@ -27,4 +27,4 @@ Paste the contents of `windows-terminal-palette`.
 Now, save the file and restart the terminal.
 
 ## Oh My Posh + Windows Terminal
-If you are planning on using the Antartic for Oh My Posh theme, please check the [README.md](https://github.com/AntarticTheme/Oh-My-Posh#oh-my-posh--windows-terminal) for further instructions. 
+If you are planning on using the Antartic for Oh My Posh theme, please check the [README.md](https://github.com/AntarcticTheme/Oh-My-Posh#oh-my-posh--windows-terminal) for further instructions. 
