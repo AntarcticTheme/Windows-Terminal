@@ -1,6 +1,8 @@
 # Antarctic Windows Terminal
 Antarctic for the Windows Terminal.
 
+Please refer to the [change log](https://github.com/AntarcticTheme/Windows-Terminal/blob/main/CHANGELOG.md) for updates on our most recent modifications.
+
 ## Installation 
 1. Open Windows Terminal
 2. Click Settings
